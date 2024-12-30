@@ -1,0 +1,11 @@
+.menu{
+    flex-basis: 480px;
+    height: 100vh;
+    position: relative;
+}
+
+@media (max-width: 992px){
+    .menu{
+        flex-basis: 100%;
+    }
+}

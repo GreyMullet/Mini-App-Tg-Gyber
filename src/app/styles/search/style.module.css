@@ -1,0 +1,26 @@
+.searchContainer{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchContainer > input{
+    width: 93%;
+    height: 55%;
+    background-color: rgb(53, 53, 53);
+    outline: none;
+    border: none;
+    border-radius: 7px;
+    color: rgb(145, 144, 144);
+    font-size: 1rem;
+    text-align: center;
+}
+
+.searchIcon{
+    position: absolute;
+    left: 5%;
+    font-size: 1.5rem;
+    color: rgb(145, 144, 144);
+}

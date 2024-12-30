@@ -1,0 +1,17 @@
+.chosenUserContainer{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    border-bottom: 1px solid rgb(108, 107, 107);
+}
+
+.noAva{
+    font-size: 3.4rem;
+    margin-left: 10%;
+}
+
+.chosenUserContainer > span{
+    margin-left: 10%;
+}
